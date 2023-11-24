@@ -1,0 +1,2 @@
+# sharingAreaApp
+sharingAreaApp
